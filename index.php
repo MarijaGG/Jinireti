@@ -13,5 +13,6 @@
 <p>Jiniret first appeared in the animated version of the "God's Menu" music video on February 3, 2021, 
     along the other SKZOO. 
     The plush and figure versions were released starting from February 14.<p/>
+    <h2>Jagermeister</h2>
 </body>
 </html>
